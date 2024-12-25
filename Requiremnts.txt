@@ -9,4 +9,4 @@ The installation command for these 3 are as follows:
 
 	2. pip install mediapipe
 
-  3. pip install PyAutoGUI
+	3. pip install PyAutoGUI
