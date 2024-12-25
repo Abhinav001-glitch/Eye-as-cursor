@@ -1,1 +1,12 @@
+To make the programme function we require installation of the following modules,
+	1. cv2
+	2. mediapipe
+	3. pyautogui 
 
+The installation command for these 3 are as follows:
+	1. pip install opencv-python
+	   pip install --upgrade pip
+
+	2. pip install mediapipe
+
+  3. pip install PyAutoGUI
